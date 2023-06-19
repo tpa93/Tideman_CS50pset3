@@ -14,5 +14,5 @@ Implementing the following methods was up to the participant:
 4. sort_pairs
 5. lock_pairs
 6. print_winner
-7. 
+
 Feel free to explore my implementation. I'm open for any feedback.
