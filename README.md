@@ -1,6 +1,6 @@
 # Tideman
 # CS50 problem set week 3 - C
-This repository shows my implementation of the related problem set.
+This repository shows my implementation of the related problem set.<br>
 https://cs50.harvard.edu/x/2023/psets/3/tideman/
 
 During week 3 in CS50 the problem set given was to create a C console application for simulating the ranked pairs (tideman) election system.
