@@ -1,5 +1,5 @@
 # Tideman
-# CS50 problem set week 3 - C
+### CS50 problem set week 3 - C
 This repository shows my implementation of the related problem set.<br>
 https://cs50.harvard.edu/x/2023/psets/3/tideman/
 
